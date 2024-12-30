@@ -1,1 +1,6 @@
 /* Your CSS code here. */
+ h2 {
+            color: blue;
+            text-align: center;
+            font-family: Arial, sans-serif;
+        }
